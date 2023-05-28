@@ -61,15 +61,15 @@ def max_marks(list1):
 ## Output:
 ### i)	To find the maximum of marks using the list method sort.
 
-![output](./img/71.png)
+![output](./imgl/71.png)
 
 ### ii)	 To find the maximum marks using the list method max().
 
-![output](./img/72.png)
+![output](./imgl/72.png)
 
 ### iii)  To find the maximum marks without using builtin functions.
 
-![output](./img/73.png)
+![output](./imgl/73.png)
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
